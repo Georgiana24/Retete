@@ -1,0 +1,10 @@
+C:\Users\Test\source\repos\Retete\bin\Debug\Retete.exe.config
+C:\Users\Test\source\repos\Retete\bin\Debug\Retete.exe
+C:\Users\Test\source\repos\Retete\bin\Debug\Retete.pdb
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.Form1.resources
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.Properties.Resources.resources
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.exe
+C:\Users\Test\source\repos\Retete\obj\Debug\Retete.pdb
